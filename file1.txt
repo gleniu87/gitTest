@@ -1,3 +1,0 @@
-This is the first version of File1.txt.
-
-File1.txt has been changed.
